@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PeGra</string>
+    <string name="password">Password</string>
+    <string name="username_email">Username/email</string>
+    <string name="welcome_to_pegra_agency">WELCOME TO PEGRA AGENCY</string>
+    <string name="login_as_tenant">Login As Tenant</string>
+</resources>
